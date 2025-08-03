@@ -6,7 +6,7 @@ A simple Flutter-based **Tic Tac Toe** game built using a 3x3 matrix (`List<List
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Watch the video]([https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://youtube.com/shorts/JVaaVEQ_eBA))
 
 
 
